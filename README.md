@@ -2,8 +2,8 @@
   🚀 Semana OmniStack 10.0
 </h2>
 
-## Tecnologias utilizadas
-
+<h4>Tecnologias utilizadas</h4>
+</br>
 - [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
