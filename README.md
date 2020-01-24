@@ -1,9 +1,7 @@
-<h2 align="center">
-  🚀 Semana OmniStack 10.0
-</h2>
+<h2 align="center">🚀 Semana OmniStack 10.0</h2>
 
 <h4>Tecnologias utilizadas</h4>
-- [Node.js](https://nodejs.org/en/)</br>
-- [React](https://reactjs.org)</br>
-- [React Native](https://facebook.github.io/react-native/)</br>
-- [Expo](https://expo.io/)</br>
+<a href="https://nodejs.org/en/">- NodeJS</a></br>
+<a href="https://reactjs.org)">- React</a></br>
+<a href="https://facebook.github.io/react-native/">- React Native</a></br>
+<a href="https://expo.io/">- Expo</a></br>
