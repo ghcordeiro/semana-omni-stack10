@@ -3,8 +3,7 @@
 </h2>
 
 <h4>Tecnologias utilizadas</h4>
-</br>
-- [Node.js](https://nodejs.org/en/)
-- [React](https://reactjs.org)
-- [React Native](https://facebook.github.io/react-native/)
-- [Expo](https://expo.io/)
+- [Node.js](https://nodejs.org/en/)</br>
+- [React](https://reactjs.org)</br>
+- [React Native](https://facebook.github.io/react-native/)</br>
+- [Expo](https://expo.io/)</br>
